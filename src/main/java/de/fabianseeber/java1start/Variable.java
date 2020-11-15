@@ -9,7 +9,6 @@ public class Variable {
     public void setAenderMich(String aenderMich) {
         this.aenderMich = aenderMich;
     }
-
     private String aenderMich = "Ich bin unverändert!";
 
 
